@@ -19,6 +19,7 @@ pip install -U seaborn
 pip install -U sklearn
 pip install -U tensorflow
 pip install -U html5lib
+pip install -U tqdm
 pip install -U xgboost==0.6a2
 
 pip3 install http://download.pytorch.org/whl/torch-0.3.1-cp36-cp36m-macosx_10_7_x86_64.whl 
