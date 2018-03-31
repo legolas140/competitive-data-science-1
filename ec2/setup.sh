@@ -13,13 +13,10 @@ pip install -U networkx
 pip install -U nltk
 pip install -U numpy
 pip install -U pandas
-pip install -U pandas_datareader
 pip install -U pip
 pip install -U plotly
-pip install -U quandl
 pip install -U seaborn
 pip install -U sklearn
-pip install -U tables
 pip install -U tensorflow
 pip install -U html5lib
 pip install -U tqdm
