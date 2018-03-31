@@ -13,7 +13,9 @@ pip install -U networkx
 pip install -U nltk
 pip install -U numpy
 pip install -U pandas
+pip install -U pandas_datareader
 pip install -U matplotlib
+pip install -U pip
 pip install -U plotly
 pip install -U seaborn
 pip install -U sklearn
