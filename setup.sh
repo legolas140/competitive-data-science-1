@@ -1,5 +1,9 @@
 ROOT_DIR="$(git rev-parse --show-toplevel)"
 
+if [[ $(uname) == 'Darwin' ]]; then
+    brew install gcc5
+fi
+
 pip install -U bokeh
 pip install -U catboost
 pip install python-dateutil==2.6.1
@@ -23,9 +27,11 @@ pip install -U tensorflow
 pip install -U tqdm
 pip install -U xgboost==0.6a2
 
-pip3 install http://download.pytorch.org/whl/torch-0.3.1-cp36-cp36m-macosx_10_7_x86_64.whl 
-pip3 install torchvision 
-# macOS Binaries dont support CUDA, install from source if CUDA is needed
+if [[ $(uname) == 'Darwin' ]]; then
+    pip install http://download.pytorch.org/whl/torch-0.3.1-cp36-cp36m-macosx_10_7_x86_64.whl 
+    pip install torchvision 
+    # macOS Binaries dont support CUDA, install from source if CUDA is needed
+fi
 
 python -c "import nltk; nltk.download('all')"
 
