@@ -1,5 +1,6 @@
 *.csv
 *.gz
+*.json
 *.swp
 *.tfevents
 *.tsv
