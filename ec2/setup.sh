@@ -2,7 +2,9 @@ ROOT_DIR="$(git rev-parse --show-toplevel)"
 
 pip install -U bokeh
 pip install -U catboost
+pip install python-dateutil==2.6.1
 pip install -U ggplot
+pip install html5lib==0.9999999
 pip install -U ipython
 pip install -U jupyter
 pip install -U kaggle
@@ -18,7 +20,6 @@ pip install -U plotly
 pip install -U seaborn
 pip install -U sklearn
 pip install -U tensorflow
-pip install -U html5lib
 pip install -U tqdm
 pip install -U xgboost==0.6a2
 
@@ -28,6 +29,4 @@ pip3 install torchvision
 
 python -c "import nltk; nltk.download('all')"
 
-mkdir -p $HOME/.kaggle
-cp $ROOT_DIR/ec2/kaggle.json $HOME/.kaggle
 kaggle competitions download -c competitive-data-science-predict-future-sales
