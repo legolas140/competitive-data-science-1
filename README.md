@@ -52,6 +52,32 @@
 
 ### Feature extraction from text and images
 
+#### Feature extraction from text
+
+Bag of words
+* Feature extraction from text with Sklearn
+* More examples of using Sklearn
+
+Word2vec
+* Tutorial to Word2vec
+* Tutorial to word2vec usage
+* Text Classification With Word2Vec
+* Introduction to Word Embedding Models with Word2Vec
+
+NLP Libraries
+* NLTK
+* TextBlob
+
+#### Feature extraction from images
+
+Pretrained models
+* Using pretrained models in Keras
+* Image classification with a pre-trained deep neural network
+
+Finetuning
+* How to Retrain Inception's Final Layer for New Categories in Tensorflow
+* Fine-tuning Deep Learning Models in Keras
+
 
 ## Week 2
 
