@@ -95,7 +95,13 @@ Finetuning
 
 ### Validation
 
+* [Validation in Sklearn](http://scikit-learn.org/stable/modules/cross_validation.html)
+* [Advices on validation in a competition](http://www.chioka.in/how-to-select-your-final-models-in-a-kaggle-competitio/)
+
 ### Data leakages
+
+* [Perfect score script by Oleg Trott](https://www.kaggle.com/olegtrott/the-perfect-score-script) -- used to probe leaderboard
+* [Page about data leakages on Kaggle](https://www.kaggle.com/wiki/Leakage)
 
 
 ## Week 3
