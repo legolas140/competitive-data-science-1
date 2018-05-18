@@ -125,5 +125,13 @@ Finetuning
 
 ## Week 4
 
+### Hyperparameter tuning
+
+### Tips and tricks
+
+### Advanced features II
+
+### Ensembling
+
 
 ## Week 5
