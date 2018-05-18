@@ -127,11 +127,36 @@ Finetuning
 
 ### Hyperparameter tuning
 
+* [Tuning the hyper-parameters of an estimator (sklearn)](http://scikit-learn.org/stable/modules/grid_search.html)
+* [Optimizing hyperparameters with hyperopt](http://fastml.com/optimizing-hyperparams-with-hyperopt/)
+* [Complete Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+
 ### Tips and tricks
+
+* [Far0n's framework for Kaggle competitions "kaggletils"](https://github.com/Far0n/kaggletils)
+* [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ### Advanced features II
 
+#### Matrix Factorization:
+* [Overview of Matrix Decomposition methods (sklearn)](http://scikit-learn.org/stable/modules/decomposition.html)
+
+#### t-SNE:
+* [Multicore t-SNE implementation](https://github.com/DmitryUlyanov/Multicore-TSNE)
+* [Comparison of Manifold Learning methods (sklearn)](http://scikit-learn.org/stable/auto_examples/manifold/plot_compare_methods.html)
+* [How to Use t-SNE Effectively (distill.pub blog)](https://distill.pub/2016/misread-tsne/)
+* [tSNE homepage (Laurens van der Maaten)](https://lvdmaaten.github.io/tsne/)
+* [Example: tSNE with different perplexities (sklearn)](http://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html#sphx-glr-auto-examples-manifold-plot-t-sne-perplexity-py)
+
+#### Interactions:
+* [Facebook Research's paper about extracting categorical features from trees](https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/)
+* [Example: Feature transformations with ensembles of trees (sklearn)](http://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html)
+
 ### Ensembling
+
+* [Kaggle ensembling guide at MLWave.com (overview of approaches)](https://mlwave.com/kaggle-ensembling-guide/)
+* [StackNet — a computational, scalable and analytical meta modelling framework (by KazAnova)](https://github.com/kaz-Anova/StackNet)
+* [Heamy — a set of useful tools for competitive data science (including ensembling)](https://github.com/rushter/heamy)
 
 
 ## Week 5
