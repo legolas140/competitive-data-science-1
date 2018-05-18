@@ -81,6 +81,12 @@ Finetuning
 
 ## Week 2
 
+### Exploratory data analysis
+
+### Validation
+
+### Data leakages
+
 
 ## Week 3
 
