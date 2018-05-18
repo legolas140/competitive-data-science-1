@@ -6,7 +6,7 @@
 ### Recap of main ML algorithms
 
 Overview of methods
-* Scikit-Learn (or sklearn) library
+* [Scikit-Learn (or sklearn) library](http://scikit-learn.org/)
 * Overview of k-NN (sklearn's documentation)
 * Overview of Linear Models (sklearn's documentation)
 * Overview of Decision Trees (sklearn's documentation)
