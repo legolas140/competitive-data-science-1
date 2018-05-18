@@ -3,6 +3,10 @@
 
 ## Week 1
 
+### Recap of main ML algorithms
+
+### Software/Hardware requirements
+
 
 ## Week 2
 
